@@ -9,3 +9,4 @@
 # To Do
 - Add Light state function
 - Build out web frontend
+- Add eeprom storage of light colors and state for restarts
