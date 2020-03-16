@@ -1,12 +1,4 @@
 ## MQTT Controlled RGBW LIght
+This has moved to https://github.com/errolsancaktar/ESP-MQTT-Lighting
 
-- Designed for ESP8266 architecture
-- Works with RGBW (or RGB) light strips with discrete channels (4 wire or 5 wire)
-
-### Instructions
-- Modify variables for mqtt server in config-sample.h and rename to config.h
-
-# To Do
-- Add Light state function
-- Build out web frontend
-- Add eeprom storage of light colors and state for restarts
+all future updates will happen there.
