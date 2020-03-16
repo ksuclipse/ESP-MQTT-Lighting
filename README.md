@@ -3,7 +3,7 @@
 - Designed for ESP8266 architecture
 - Works with RGBW (or RGB) light strips with discrete channels (4 wire or 5 wire)
 
-###Instructions
+### Instructions
 - Modify variables for mqtt server in config-sample.h and rename to config.h
 
 # To Do
